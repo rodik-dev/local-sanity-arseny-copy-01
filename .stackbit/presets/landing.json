@@ -68,10 +68,7 @@
                               }
                             ],
                             "content": "The client is notified when content changes and changes are synced automatically.",
-                            "image": {
-                              "_type": "image",
-                              "asset": {
-                                "_ref": "image-0e36ac6466d7ba2c50569e6acabb461b8f7b1d35-736x633-png",
+                            "image": "image-0e36ac6466d7ba2c50569e6acabb461b8f7b1d35-736x633-png",
                                 "_type": "reference"
                               }
                             },
