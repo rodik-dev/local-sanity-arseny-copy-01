@@ -38,10 +38,7 @@
                               }
                             ],
                             "content": "When the site content is changed, instantly update the page in the browser.",
-                            "image": {
-                              "_type": "image",
-                              "asset": {
-                                "_ref": "image-c5529b494f031c0747e38365e9361ecf01b3845a-510x620-png",
+                            "image": "image-c5529b494f031c0747e38365e9361ecf01b3845a-510x620-png",
                                 "_type": "reference"
                               }
                             },
