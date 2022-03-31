@@ -36,3 +36,4 @@ models:
     type: page
     urlPath: '/{slug}'
     labelField: title
+  
