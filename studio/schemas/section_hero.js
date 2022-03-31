@@ -34,7 +34,9 @@ export default {
             name: 'actions',
             of: [{type: 'action'}]
         },{
-            
+            type: 'json',
+            title: 'Styles',
+            name: 'styles'
         }
     ]
 }
