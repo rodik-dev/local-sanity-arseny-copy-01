@@ -94,12 +94,6 @@ models:
             backgroundColor: '$complementary'
             borderColor: '#ececec'
         default: colors-a
-      - type: string
-        name: elementId
-        group: settings
-        label: Element ID
-        description: The unique ID for an HTML element, must not contain whitespace
-        default: ''
   section_hero:
     type: object
     name: section_hero
