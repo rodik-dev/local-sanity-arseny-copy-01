@@ -37,7 +37,7 @@ export default {
             type: 'json',
             title: 'Styles',
             name: 'styles',
-            description: ''
+            description: 'Styles'
         }
     ]
 }
