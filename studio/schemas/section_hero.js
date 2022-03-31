@@ -33,6 +33,8 @@ export default {
             title: 'Action Buttons',
             name: 'actions',
             of: [{type: 'action'}]
+        },{
+            
         }
     ]
 }
