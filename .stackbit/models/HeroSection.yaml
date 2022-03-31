@@ -1,5 +1,5 @@
 type: object
-name: HeroSection
+name: section_hero
 label: Hero
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
