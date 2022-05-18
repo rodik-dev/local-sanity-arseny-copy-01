@@ -40,7 +40,11 @@ export default {
       description: 'Page content'
     },
     {
-        type: 'text'
+        type: 'string',
+        title: 'Locale',
+        name: 'locale',
+        description: 'Locale of the page',
+        validation: Rule => Rule.required()
     }
   ]
 }
