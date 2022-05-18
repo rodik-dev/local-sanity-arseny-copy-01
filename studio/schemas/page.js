@@ -44,7 +44,8 @@ export default {
         title: 'Locale',
         name: 'locale',
         description: 'Locale of the page',
-        validation: Rule => Rule.required()
+        validation: Rule => Rule.required(),
+        initialValue: 'en-US'
     }
   ]
 }
